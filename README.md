@@ -50,3 +50,6 @@ El simulador se utiliza para verificar el funcionamiento del test y la coreograf
 
 4. Depuración
 - Si surgen problemas, se revisan los logs de salida y se ajusta el código según sea necesario.
+
+**Enlace video de Youtube**
+https://youtu.be/pTpbJo6B4zw
