@@ -24,13 +24,13 @@ El script en Python permite al Robot NAO recibir las respuestas del usuario para
 El robot recibe el puntaje ingresado por el usuario y lo asigna al género correspondiente.
 Al finalizar, el robot muestra los tres géneros más afines con el usuario.
 
-4. Coreografía de Baile
+3. Coreografía de Baile
    
 La coreografía se implementó utilizando Python, controlando los movimientos del Robot NAO mediante comandos específicos de la API. Esta secuencia coreográfica se activa en respuesta a los resultados del test, sirviendo como acción final del mismo y basada en movimientos predefinidos.
 - Composición: Cada paso del baile se define mediante comandos que indican las posiciones de las articulaciones del robot, creando una rutina sincronizada.
 Ejecución: Una vez que se presentan los géneros seleccionados, el robot ejecuta el baile para finalizar la interacción de manera lúdica.
 
-5. Simulador NAO
+4. Simulador NAO
    
 El simulador se utiliza para verificar el funcionamiento del test y la coreografía sin necesidad del hardware físico. Es útil para probar tanto la comunicación de datos entre el test y el robot como para visualizar la coreografía final.
 
