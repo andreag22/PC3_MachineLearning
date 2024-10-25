@@ -32,7 +32,7 @@ Ejecución: Una vez que se presentan los géneros seleccionados, el robot ejecut
 
 5. Simulador NAO
    
-Descripción: El simulador se utiliza para verificar el funcionamiento del test y la coreografía sin necesidad del hardware físico. Es útil para probar tanto la comunicación de datos entre el test y el robot como para visualizar la coreografía final.
+El simulador se utiliza para verificar el funcionamiento del test y la coreografía sin necesidad del hardware físico. Es útil para probar tanto la comunicación de datos entre el test y el robot como para visualizar la coreografía final.
 
 **Instrucciones de Instalación del Modelo de IA en el Robot NAO**
 
